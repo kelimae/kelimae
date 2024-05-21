@@ -1,11 +1,17 @@
 ### Hi guys!🥰
-<!--
-**kelimae/kelimae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-• my name is Kezia Lima
-• I'm studying at Alura
-• I'm developing in the JavaScript language 
-•I use this space to organize and share my projects developed.
+<### Boas vindas ao meu perfil :white_heart
 
-### you can contact me:📬
-kezialimaevan2000@gmail.com
+Meu nome é Kezia Lima
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+kezialimaevan2007@gmail.com
+
+
+![descrição do GIF](link GIF do Tenor)
+
 
