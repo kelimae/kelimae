@@ -1,4 +1,4 @@
-### Hi guys!🥰
+
 <### Boas vindas ao meu perfil 🤍
 
 Meu nome é Kezia Lima  🫶
